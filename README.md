@@ -21,11 +21,11 @@ Reconocer como afecta la disposición de los distintos elementos del circuito re
 
 2.1OBJETIVOS ESPECIFICOS:
 
--Implementar los circuitos utilizando amplificadores operacionales y demostrar su funcionamiento mediante el osciloscopio.
+-Implementar los circuitos utilizando amplificadores operacionales y comprobar su funcionamiento mediante el osciloscopio.
 
--Determinar y analisar la relación entre las señales de entrada y salida en cada uno de los circuitos.
+-Determinar y analisar la relación entre las señales de entrada y salida del amplicador operacional en cada uno de los circuitos.
 
--Conocer los distintos parámetros técnicos que deben ser considerados para el uso de los AO.
+-Conocer los distintos parámetros técnicos que deben ser considerados para el uso de un amplificador operacional.
 
--Investigar acerca de las distintas aplicaciones de los AO y analizar las características de los distintos AO que se encuentran en el mercado.
+-Investigar acerca de las distintas aplicaciones de los AO y analizar las características de los distintos amplificador operacionales dentro el mercado.
 
