@@ -31,21 +31,26 @@ Reconocer como afecta la disposición de los distintos elementos del circuito re
 
 # 3 MARCO TEORICO:
 
-Un amplificador operacional, tambien conocido como op-amp (operational amplifier), es un dispositivo electronico que consta de dos entradas y una salida, se lo reconoce como amplificador gracias a que por lo general su salida es en gran cantidad superior a la diferencia de potencial generada en sus entradas
+Un amplificador operacional, tambien conocido como op-amp (operational amplifier), es un dispositivo electronico que consta de dos entradas y una salida, se lo reconoce como amplificador gracias a que por lo general su salida es en gran cantidad superior a la diferencia de potencial generada en sus entradas.
 SU DIAGRAMA LOGICO ES:
 
 ![](https://github.com/Damian-A-Perez/Informe_09/blob/master/Img/180px-Op-amp_symbol.svg.png)
+
 
 Como se puede observar consta de diferentes partes o tambien pines de conexion, los cuales tienen distinto proposito en la conexion de una red de amplificacion.
 
 SUS TERMINALES O PINS DE CONEXION SE RECONOCEN DE LA SIGUIENTE MANERA.
 V+ = Entrada no inversora.
-V− = Entrada inversora.
-Vout = Salida.
-VS+ = Fuente DC positiva.
-VS− = Fuente DC negativa.
-Los diseños varían entre cada fabricante y cada producto, pero todos los amplificadores operacionales tienen básicamente la misma estructura interna, que consiste en tres etapas:
 
+V− = Entrada inversora.
+
+Vout = Salida.
+
+VS+ = Fuente DC positiva.
+
+VS− = Fuente DC negativa.
+
+Los diseños varían entre cada fabricante y cada producto, pero todos los amplificadores operacionales tienen básicamente la misma estructura interna, que consiste en tres etapas:
 1. Amplificador diferencial: 
 		Es la etapa de entrada que proporciona una baja amplificación del ruido y gran impedancia de entrada. Suelen tener una salida diferencial.
 
