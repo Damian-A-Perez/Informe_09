@@ -61,12 +61,22 @@ Los diseños varían entre cada fabricante y cada producto, pero todos los ampli
 		Proporciona la capacidad de suministrar la corriente necesaria, tiene una baja impedancia de salida y, usualmente, protección frente a cortocircuitos. Éste también proporciona una ganancia adicional.
 		
 °Los amplificadores operacionales tienen caracteristicas escenciales:
+
 Infinita ganancia en lazo abierto.
-Infinita resistencia de entrada. 
+
+Infinita resistencia de entrada.
+
 Corriente de entrada cero.
+
 Tensión de desequilibrio de entrada cero.
+
 Infinito rango de tensión disponible en la salida.
+
 Infinito ancho de banda con desplazamiento de fase cero.
+
 Rapidez de variación de tensión infinita.
+
 Resistencia de salida cero.
+
 Ruido cero.
+
