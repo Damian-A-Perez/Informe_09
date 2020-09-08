@@ -35,7 +35,7 @@ Un amplificador operacional, tambien conocido como op-amp (operational amplifier
 
 SU DIAGRAMA LOGICO ES:
 
-![]()
+![](https://github.com/Damian-A-Perez/Informe_09/blob/master/Img/180px-Op-amp_symbol.svg.png)
 
 Como se puede observar consta de diferentes partes o tambien pines de conexion, los cuales tienen distinto proposito en la conexion de una red de amplificacion.
 SUS TERMINALES O PINS DE CONEXION SE RECONOCEN DE LA SIGUIENTE MANERA
