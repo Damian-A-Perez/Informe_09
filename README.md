@@ -116,7 +116,7 @@ circuitos indicados en la figura 1.
 
 ![LF1 osc](https://github.com/Damian-A-Perez/Informe_09/blob/master/Img/LF%201.png)
 
-(explicacion)
+Aqui el osiloscopio nos indica que la onda de salida(amarilla) es mayor a la de entrada(azul) en este caso se amplifico la onda y obtuvo un desfase.
 
 ![C2](https://github.com/Damian-A-Perez/Informe_09/blob/master/Img/C2.png)
 
