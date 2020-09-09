@@ -178,6 +178,11 @@ Función exponencial y logarítmica.
 
 7.- CONCLUSIONES
 
+- la polarizacion de un amplificador peracional afectara por completo el funcionamiento de este.
+
+-estos cicuitos nos ayudan a modificar las señales de las ondas dependiendo de su configuracion.
+
+-en un circuto practico no ideal no hay que olvidar polarizar las fuentes.
 8.- CRONOGRAMA
 
 9.- BIBLIOGRAFIA
