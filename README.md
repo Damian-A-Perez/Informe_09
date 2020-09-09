@@ -83,13 +83,13 @@ Ruido cero.
 
 # 4 Materiales 
 
--Generador de señales
+-Generador de señales.
 
 -Fuente DC.
 
 -Osciloscopio.
 
--Protoboard
+-Protoboard.
 
 -Multímetro.
 
