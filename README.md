@@ -81,7 +81,7 @@ Resistencia de salida cero.
 Ruido cero.
 
 
-Materiales 
+# 4 Materiales 
 
 -Generador de señales
 
@@ -99,8 +99,16 @@ Materiales
 
 -Amplificadores operacionales. 
 
+# 5 Procedimiento
 
+1.- Construya en el protoboard cada uno de los circuitos de la figura 1. Muestre
+simultáneamente las señales de entrada y salida en un osciloscopio. Dibuje o capture las formas
+de onda.
 
+2.- Determine y analice la relación entre las señales de entrada y salida en cada uno de los
+circuitos indicados en la figura 1.
+
+3.- Simule los circuitos y muestre resultados gráficos.
 
 
 
