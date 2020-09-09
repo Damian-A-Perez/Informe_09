@@ -110,6 +110,7 @@ circuitos indicados en la figura 1.
 
 3.- Simule los circuitos y muestre resultados gráficos.
 
+![C1](https://github.com/Damian-A-Perez/Informe_09/blob/master/Img/C1.png)
 
 
 
