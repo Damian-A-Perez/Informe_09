@@ -124,7 +124,7 @@ Aqui el osiloscopio nos indica que la onda de salida(amarilla) es mayor a la de 
 
 ![LF2 OSC](https://github.com/Damian-A-Perez/Informe_09/blob/master/Img/LF%203.png)
 
-(explicacion)
+En este caso el amplificador modifico la onda de entrada cuadrada, haciendo que en intervalos varie amplificandola y reduciendola
 
 ![LF3](https://github.com/Damian-A-Perez/Informe_09/blob/master/Img/C3.png)
 
