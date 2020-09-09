@@ -134,8 +134,39 @@ circuitos indicados en la figura 1.
 
 
 (explicacion)
+6..- RESPUESTA DE PREGUNTAS
 
+7.- CONCLUSIONES
 
+8.-RECOMENDACIONES
+
+-1.Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.
+
+Tención de alimentacion: Tención máxima permitida que puede aplicarse con seguridad al amplificador, 15V estándar.
+Rango de temperatura de operación (Tor).
+Tensión de entrada diferencial (Vid): Tensión máxima que puede aplicarse con seguridad entre los terminales de entrada diferencial sin flujo excesivo de corriente +-30V.
+Voltaje de entrada en modo común (Vcm): Voltaje que puede aplicarse en ambas entradas respecto a tierra.
+Consumo de potencia (PC): Potencia requerida para operar el amplificador operacional o la potencia consumida por este.
+
+Disipación de potencia (PD): Potencia que es capaz de disiparse en un dispositivo con seguridad en forma continua mientras opera dentro de un rango de temperatura especifico.
+
+-2.Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
+AO LM741, amplificador de propósito general bastante conocido y de uso muy extendido. Cuenta con parámetros bastante regulares, en conjunto genera alta impedancia de entrada, pequeños offset de corriente y voltaje en la entrada.
+
+AO LM725. Similar al anterior con mejora en sus parámetros, como menores valores para el voltaje y corriente de offset, su corriente de polarización también es menor y su CMRR más elevado. Con la desventaja que su impedancia es menor al del LM741.
+
+AO LF411. Posee excelentes parámetros, tiene un offset de entrada y una corriente de polarización de valores muy bajos, su impedancia de entrada es la más elevada de todas. Es uno de los amplificadores operacionales de National Semiconductors para la aplicación de máxima precisión.
+
+3.-Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.
+Los amplificadores operacionales son comúnmente usados en:
+
+Comparadores.
+Seguidores de voltaje o tensión.
+Amplificador no inversor.
+Sumador y restador inversor.
+Derivador ideal
+Conversor de corriente a tensión.
+Función exponencial y logarítmica.
 
 
 
