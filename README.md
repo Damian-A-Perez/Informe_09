@@ -132,8 +132,7 @@ En este caso el amplificador modifico la onda de entrada cuadrada, haciendo que 
 
 ![LF3 OSC](https://github.com/Damian-A-Perez/Informe_09/blob/master/Img/LF%205.png)
 
-
-(explicacion)
+Para este circuito tenemos una reducion del voltaje maximo, y una modificacion de la onda en comparacion a las dos fuentes de entrada.
 
 6..- RESPUESTA DE PREGUNTAS
 
