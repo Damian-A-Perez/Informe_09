@@ -179,7 +179,11 @@ Función exponencial y logarítmica.
 
 7.- CONCLUSIONES
 
-8.-RECOMENDACIONES
+8.- CRONOGRAMA
+
+9.- BIBLIOGRAFIA
+.- Floyd, Thomas L. (2008). «El Amplificador Operacional». En Luis Miguel Cruz Castillo, ed. Dispositivos electrónicos. Pearson Educación. p. 593
+.-Millman, Jacob (1979). Microelectronics: Digital and Analog Circuits and Systems. McGraw-Hill. p. 523-527
 
 
 
