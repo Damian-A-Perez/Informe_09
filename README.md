@@ -82,14 +82,24 @@ Ruido cero.
 
 
 Materiales 
+
 -Generador de señales
+
 -Fuente DC.
+
 -Osciloscopio.
+
 -Protoboard
+
 -Multímetro
+
 -Cables conductores
+
 -Resistencias, capacitores
+
 -Amplificadores operacionales. 
+
+
 
 
 
