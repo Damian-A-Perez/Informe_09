@@ -93,7 +93,7 @@ Ruido cero.
 
 -Multímetro
 
--Cables conductores
+-Cables conductores.
 
 -Resistencias, capacitores.
 
