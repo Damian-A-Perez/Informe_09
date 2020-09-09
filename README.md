@@ -95,7 +95,7 @@ Ruido cero.
 
 -Cables conductores
 
--Resistencias, capacitores
+-Resistencias, capacitores.
 
 -Amplificadores operacionales. 
 
