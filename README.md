@@ -112,6 +112,9 @@ circuitos indicados en la figura 1.
 
 ![C1](https://github.com/Damian-A-Perez/Informe_09/blob/master/Img/C1.png)
 
+![LF1](https://github.com/Damian-A-Perez/Informe_09/blob/master/Img/LF%202.png)
+
+![LF1 osc](https://github.com/Damian-A-Perez/Informe_09/blob/master/Img/LF%201.png)
 
 
 
