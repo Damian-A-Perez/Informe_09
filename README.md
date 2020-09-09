@@ -169,7 +169,7 @@ Amplificador no inversor.
 
 Sumador y restador inversor.
 
-Derivador ideal
+Derivador ideal.
 
 Conversor de corriente a tensión.
 
