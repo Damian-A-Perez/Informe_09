@@ -183,7 +183,10 @@ Función exponencial y logarítmica.
 -estos cicuitos nos ayudan a modificar las señales de las ondas dependiendo de su configuracion.
 
 -en un circuto practico no ideal no hay que olvidar polarizar las fuentes.
+
 8.- CRONOGRAMA
+
+![LF CRONO](https://github.com/Damian-A-Perez/Informe_09/blob/master/Img/LF%20CRONO.png)
 
 9.- BIBLIOGRAFIA
 .- Floyd, Thomas L. (2008). «El Amplificador Operacional». En Luis Miguel Cruz Castillo, ed. Dispositivos electrónicos. Pearson Educación. p. 593
