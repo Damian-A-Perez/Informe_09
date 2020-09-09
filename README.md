@@ -91,7 +91,7 @@ Ruido cero.
 
 -Protoboard
 
--Multímetro
+-Multímetro.
 
 -Cables conductores.
 
